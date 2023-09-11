@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React to get a job to dev.
+          Learn React to get a job to dev. I want to add to dev.
+          
         </a>
       </header>
     </div>
