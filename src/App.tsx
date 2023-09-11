@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React to get a job
+          Learn React to get a job to dev.
         </a>
       </header>
     </div>
